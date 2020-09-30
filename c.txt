@@ -1,2 +1,6 @@
 my name is hanmeimei
 what is your name?
+我不知道，是不是可以打入中文
+还可以，确实很厉害了。
+中英文都能支持~
+有些意外呀
